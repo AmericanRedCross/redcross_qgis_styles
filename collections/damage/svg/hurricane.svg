@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 612 704.875"
+   enable-background="new 0 0 612 563.9"
+   xml:space="preserve"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="hurricane2.svg"><metadata
+     id="metadata12"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs10" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="697"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.33481114"
+     inkscape:cx="306"
+     inkscape:cy="352.4375"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" /><g
+     id="g4"
+     style="fill:#afdde9"><path
+       d="M212.9,432.1c-12.2-7.2-23.7-16.1-34.2-26.6c-10.5-10.5-19.4-22-26.6-34.2c-39.2-66.3-30.4-153.1,26.6-210.1   C286.9,53,425.2,13.9,496.5,68.6c-22.1,4.9-60.8,28.9-107.6,66c12.2,7.2,23.7,16.1,34.2,26.6c10.5,10.5,19.4,22,26.6,34.2   c39.2,66.3,30.4,153.1-26.6,210.1c-108.2,108.2-246.5,147.3-317.7,92.6C127.5,493.1,166.2,469.2,212.9,432.1z M345.9,328.5   c25.3-25.3,25.3-66.2,0-91.5s-66.2-25.3-91.5,0s-25.3,66.2,0,91.5S320.6,353.8,345.9,328.5z"
+       id="path6"
+       fill="param(fill) #FFF" stroke="param(outline) #000" stroke-width="param(outline-width) 1" /></g></svg>

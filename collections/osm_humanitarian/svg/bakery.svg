@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 4.7624998 2.6003499"
+   height="2.6003499mm"
+   width="4.7624998mm">
+  <defs
+     id="defs2">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-8"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-1"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-10"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-82"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-8-8"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-1-7"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-3"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-8-9"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-1-2"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-2"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-8-95"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-1-8"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-4"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-8-2"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-37"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-8-4"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(73.329535,-267.24515)"
+     id="layer1">
+    <g
+       style="opacity:0.3;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="g4696"
+       transform="matrix(0.26458333,0,0,0.26458333,-82.581683,-27.906575)">
+      <path
+         style="fill:#747474;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 9,-139.79988 v 3.76863 c 0,0.0183 -0.2245221,0.0312 -0.5,0.0312 -0.2754779,0 -0.5,-0.013 -0.5,-0.0312 v -3.67488 c -0.6296026,0.0991 -1.3114304,0.0732 -2,0.33113 v 3.34375 c 0,0.0183 -0.2245221,0.0312 -0.5,0.0312 -0.2754779,0 -0.5,-0.013 -0.5,-0.0312 v -2.9375 C 2,-138 1.0055673,-137.19071 1,-135 c 0,1.1435 0,3 0,3 h 16 c 0,0 0,-1.8702 0,-3 0,-2.21482 -2,-4 -5,-4.40625 v 3.375 c 0,0.0183 -0.224522,0.0312 -0.5,0.0312 -0.275478,0 -0.5,-0.013 -0.5,-0.0312 v -3.6875 c -0.663107,-0.16754 -1.3337328,-0.0767 -2,-0.0811 z"
+         transform="translate(34.96875,1256.3622)"
+         id="path4698" />
+    </g>
+    <g
+       style="fill:#747473;fill-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-82.581683,-27.906575)"
+       id="g15032-5">
+      <path
+         id="path15002-7"
+         transform="translate(34.96875,1256.3622)"
+         d="m 9,-139.79988 v 3.76863 c 0,0.0183 -0.2245221,0.0312 -0.5,0.0312 -0.2754779,0 -0.5,-0.013 -0.5,-0.0312 v -3.67488 c -0.6296026,0.0991 -1.3114304,0.0732 -2,0.33113 v 3.34375 c 0,0.0183 -0.2245221,0.0312 -0.5,0.0312 -0.2754779,0 -0.5,-0.013 -0.5,-0.0312 v -2.9375 C 2,-138 1.0055673,-137.19071 1,-135 c 0,1.1435 0,3 0,3 h 16 c 0,0 0,-1.8702 0,-3 0,-2.21482 -2,-4 -5,-4.40625 v 3.375 c 0,0.0183 -0.224522,0.0312 -0.5,0.0312 -0.275478,0 -0.5,-0.013 -0.5,-0.0312 v -3.6875 c -0.663107,-0.16754 -1.3337328,-0.0767 -2,-0.0811 z"
+         style="fill:#747473;fill-opacity:1;stroke:none" />
+    </g>
+  </g>
+</svg>
